@@ -1,0 +1,16 @@
+# Python cache files (Junk)
+__pycache__/
+*.pyc
+
+# Virtual Environments (Never upload these!)
+venv/
+env/
+.venv/
+.env
+
+# IDE settings (VS Code / PyCharm settings)
+.vscode/
+.idea/
+
+# Mac OS system files
+.DS_Store
