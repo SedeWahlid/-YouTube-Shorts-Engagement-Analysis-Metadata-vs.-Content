@@ -7,6 +7,9 @@ Using a **Random Forest Classifier**, the project attempts to predict whether a 
 
 **Key Finding:** The analysis reveals that while metadata plays a role in discoverability it is a weak predictor of viral success compared to latent content variables (video quality, storytelling, audio etc.), highlighting the "Content Gap" in metadata-based modeling.
 
+### Live Playground
+Here is a Live Playground to test the application: https://youtube-shorts-engagement-ai.streamlit.app/
+
 ### 🛠️ Tech Stack
 *   **Core:** Python 3.9+
 *   **Machine Learning:** Scikit-Learn (Random Forest), Joblib
