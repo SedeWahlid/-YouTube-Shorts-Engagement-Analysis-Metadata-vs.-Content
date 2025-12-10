@@ -6,7 +6,7 @@ import shap
 from streamlit_shap import st_shap
 
 # -- MAIN ALGORITHM --
-@st.cache_data
+@st.cache_resource
 def run_main()-> None:
     df,categories = open_data()
     X_train,y_train,X_valid,y_valid,X_test,y_test = split_data(df)
