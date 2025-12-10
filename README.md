@@ -12,7 +12,7 @@ Using a **Random Forest Classifier**, the project attempts to predict whether a 
 *   **Machine Learning:** Scikit-Learn (Random Forest), Joblib
 *   **Explainability:** SHAP (Shapley Additive Explanations)
 *   **Data Processing:** Pandas
-*   **Visualization:** Plotly
+*   **Visualization:** Plotly, Matplotlib
 *   **Web App:** Streamlit
 
 ### 📂 Project Structure

@@ -5,3 +5,4 @@ scikit-learn==1.7.2
 shap==0.50.0
 streamlit==1.52.1
 streamlit-shap==1.0.2
+matplotlib==3.10.7
