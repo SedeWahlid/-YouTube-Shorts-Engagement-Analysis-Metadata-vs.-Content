@@ -10,6 +10,8 @@ Using a **Random Forest Classifier**, the project attempts to predict whether a 
 ### Live Playground
 Here is a Live Playground to test the application: https://youtube-shorts-engagement-ai.streamlit.app/
 
+**Note**: It made take a while to load the Playground due to streamlits free tier "sleeping" behaviour.
+
 ### 🛠️ Tech Stack
 *   **Core:** Python 3.9+
 *   **Machine Learning:** Scikit-Learn (Random Forest), Joblib
